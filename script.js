@@ -3,4 +3,4 @@ function calcLength(){
 	let origin = window.location.origin;
 	return origin.length;
 }
-alert(The length of the URL is: calcLength());
+alert("The length of the URL is: "+ calcLength());
